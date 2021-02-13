@@ -6,11 +6,11 @@
 
  **To attend the quiz with the default Time Limit**
     
-     make dev
+   ``make dev``
 
 **To extend the time Limit**
 
-    go build . && ./go_quiz --time=<TIME_LIMIT>
+   ``go build . && ./go_quiz --time=<TIME_LIMIT>``
 
 **Concepts Learned**
 
